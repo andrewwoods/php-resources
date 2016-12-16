@@ -11,7 +11,7 @@ To help you find your way, here are some great resources.
 
 ## Table of Contents
 
-* Conferences
+* [Conferences](conferences.md)
 * CMS
 * Development Tools
 * Frameworks
