@@ -15,7 +15,7 @@ To help you find your way, here are some great resources.
 * CMS
 * Development Tools
 * Frameworks
-* Podcasts 
+* [Podcasts](podcasts.md)
 * Publications
 * Organizations
 * User Groups
