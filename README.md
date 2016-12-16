@@ -18,7 +18,7 @@ To help you find your way, here are some great resources.
 * [Podcasts](podcasts.md)
 * Publications
 * Organizations
-* User Groups
+* [User Groups](user-groups.md)
 
 
 
