@@ -1,0 +1,30 @@
+
+
+# Ignore VIM editor files
+.*.swp
+
+
+# Ignore packaged files
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+
+
+# Ignore generic files
+temp.txt
+*.bak
+
+
+# Ignore log files
+*.log
+
+
+# Ignore OS X specific files
+*.dmg
+.DS_Store
+
