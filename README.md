@@ -17,7 +17,11 @@ To help you find your way, here are some great resources.
 * [Frameworks](frameworks.md)
 * [Podcasts](podcasts.md)
 * Publications
+  - [PHP Architect](https://www.phparch.com/)
+  - [PHP Magazine](http://phpmagazine.net/)
 * Organizations
+  - [PHP Fig](http://www.php-fig.org)
+  - [The League of Extraordinary Packages](http://thephpleague.com/)
 * [User Groups](user-groups.md)
 
 
