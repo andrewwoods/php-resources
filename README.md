@@ -13,7 +13,7 @@ To help you find your way, here are some great resources.
 
 * [Conferences](conferences.md)
 * CMS
-* Development Tools
+* [Development Tools](dev-tools.md)
 * Frameworks
 * [Podcasts](podcasts.md)
 * Publications
