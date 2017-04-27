@@ -12,7 +12,7 @@
 	* Sammy Kaye Powers ([@SammyK](https://twitter.com/SammyK))
 * [PHP Town Hall](http://phptownhall.com/) ([@phptownhall](https://twitter.com/phptownhall))
 	* Ben Edmunds ([@benedmunds](https://twitter.com/benedmunds))
-	* Phil Sturgeon ([@philsturgeon](http://twitter.com/philsturgeon))
+	* Amanda Folson ([@AmbassadorAwsum](http://twitter.com/AmbassadorAwsum))
 * [Three Devs and a Maybe](http://threedevsandamaybe.com/)
 	* Michael Bud ([@michaelbud6](http://twitter.com/michaelbud6))
 	* Fraser Hart ([@FraserHartDev](http://twitter.com/FraserHartDev))
