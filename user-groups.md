@@ -4,6 +4,8 @@
 
 ## Canada
 
+* [Vancouver, CA](https://www.meetup.com/Vancouver-PHP/)
+
 ## United Kingdom (UK)
 
 ### England
@@ -15,6 +17,15 @@
 ### Wales
 
 ## United States (USA)
+
+### California
+
+* [San Francisco](https://www.meetup.com/sf-php/)
+* [South Bay](https://www.meetup.com/South-Bay-PHP-User-Group/)
+
+### Oregon
+
+* [Portland](http://www.meetup.com/pdx-php/)
 
 ### Washington
 
