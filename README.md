@@ -19,6 +19,8 @@ To help you find your way, here are some great resources.
 * Publications
   - [PHP Architect](https://www.phparch.com/)
   - [PHP Magazine](http://phpmagazine.net/)
+  - [SitePoint](https://www.sitepoint.com/php/)
+  - [PHP Developer](http://phpdeveloper.org/)
 * Organizations
   - [PHP Fig](http://www.php-fig.org)
   - [The League of Extraordinary Packages](http://thephpleague.com/)
