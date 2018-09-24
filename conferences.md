@@ -1,7 +1,9 @@
 
 # Conferences
 
+* [CascadiaPHP](https://cascadiaphp.com/)
 * [Dutch PHP Conference](https://www.phpconference.nl/)
+* [LonghornPHP](https://www.longhornphp.com/)
 * [Madison PHP](http://www.madisonphpconference.com/)
 * [Midwest PHP](http://midwestphp.org/)
 * [PHPBenelux](https://conference.phpbenelux.eu/)
