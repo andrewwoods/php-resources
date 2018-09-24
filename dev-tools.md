@@ -7,9 +7,13 @@
 * [PHPDocumentor](http://phpdoc.org/)
 * [Phing](https://www.phing.info/)
 * [PHP Mess Detector](https://phpmd.org/)
-* [PHPUnit](http://www.phpunit.de/)
-  * [PHPChunkit](https://github.com/jwage/phpchunkit) (provides parallel test execution)
-* [Selenium](http://selenium-rc.openqa.org/)
-* [SimpleTest](http://www.simpletest.org/)
 * [Utilphp](http://brandonwamboldt.github.io/utilphp/)
 
+# Testing Tools
+
+* [Atoum](http://atoum.org/)
+* [Behat](http://behat.org/en/latest/)
+* [PHPUnit](http://www.phpunit.de/)
+  * [PHPChunkit](https://github.com/jwage/phpchunkit) (provides parallel test execution)
+* [SimpleTest](http://www.simpletest.org/)
+* [Selenium](http://selenium-rc.openqa.org/)
