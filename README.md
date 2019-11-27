@@ -14,6 +14,7 @@ To help you find your way, here are some great resources.
 * [Conferences](conferences.md)
 * [CMS](cms.md)
 * [Development Tools](dev-tools.md)
+* [PHP Adjacent](php-adjacent.md)
 * [Frameworks](frameworks.md)
 * [Podcasts](podcasts.md)
 * Publications
