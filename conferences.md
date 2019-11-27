@@ -33,7 +33,7 @@ You can find more conferences at [PHP.net](http://php.net/conferences/index.php)
 
 ## Oct - Dec
 
-* [PHPWorld](https://world.phparch.com/)
+* [php[world]](https://world.phparch.com/)
 
 
 ## Throughout the year
