@@ -33,7 +33,6 @@ You can find more conferences at [PHP.net](http://php.net/conferences/index.php)
 ## Oct - Dec
 
 * [PHPWorld](https://world.phparch.com/)
-* [ZendCon](http://www.zendcon.com/)
 
 
 ## Throughout the year
@@ -45,6 +44,7 @@ You can find more conferences at [PHP.net](http://php.net/conferences/index.php)
 
 These are conferences that are no longer active
 
+* [ZendCon](https://www.zendcon.com/)
 * [PNWPHP](http://pnwphp.com)
 * [LonestarPHP](http://lonestarphp.com/)
 
