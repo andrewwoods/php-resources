@@ -21,6 +21,7 @@ You can find more conferences at [PHP.net](http://php.net/conferences/index.php)
 * [Midwest PHP](https://midwestphp.org/)
 * [LonghornPHP](https://www.longhornphp.com/)
 * [Dutch PHP Conference](https://www.phpconference.nl/)
+* [php[tek]](https://tek.phparch.com/)
 
 
 ## Jul - Sep
